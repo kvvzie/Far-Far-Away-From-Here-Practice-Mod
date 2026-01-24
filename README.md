@@ -57,5 +57,5 @@ You need to tell the patcher which file to modify (`Original file`) and which mo
 2. Run the game executable (`Far Far Away From Here.exe`).
 3. Once in-game, you should see the Practice Timer in the corner, or press **F2** to verify the mod is active.
 
-*Your saves for the Practice Mod will be stored in a separate folder (`%localappdata%/Far_Far_Away_Practice`), so your main game progress is completely safe.*
+*Your saves for the Practice Mod will be stored in a separate folder (`%localappdata%/Far_Far_Away_Practice`), so your main game is completely safe.*
 
