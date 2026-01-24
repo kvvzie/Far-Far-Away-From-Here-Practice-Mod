@@ -57,5 +57,17 @@ You need to tell the patcher which file to modify (`Original file`) and which mo
 2. Run the game executable (`Far Far Away From Here.exe`).
 3. Once in-game, you should see the Practice Timer in the corner, or press **F2** to verify the mod is active.
 
-*Your saves for the Practice Mod will be stored in a separate folder (`%localappdata%/Far_Far_Away_Practice`), so your main game is completely safe.*
+
+## How to Use
+
+Once you are in the game, the mod is automatically active and the Practice Timer will be visible.
+
+### Controls
+*   **F2**: Opens the configuration menu. Use this to change the keybinds for level warping.
+*   **Numpad 1-8** (Default): Instantly warps you to Levels 1 through 8.
+*   **Numpad 0** (Default): Returns you to the Main Menu.
+
+### Important Notes
+*   **Save Files**: Your saves for the Practice Mod are stored in a separate folder (`%localappdata%/Far_Far_Away_Practice`). Your main game progress is completely safe and separate.
+*   **Speedrunning**: This mod is intended for **Individual Level (IL)** practice and runs. Check the specific category rules on speedrun.com before submitting runs.
 
