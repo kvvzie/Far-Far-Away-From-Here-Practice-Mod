@@ -5,7 +5,7 @@ This guide will show you how to safely install the **Practice Mod** for *Far Far
 We use **DeltaPatcher** to apply the mod. This method is safe, legal, and standard in the speedrunning community because it only applies the specific code changes without distributing the full game.
 
 ### Prerequisites
-1. **The Game:** Installed via Steam.
+1. **The Game:** Installed via Steam or other source.
 2. **The Mod:** Download the `.xdelta` file from the [Releases page](../../releases) of this repository.
 3. **The Patcher:** Download **DeltaPatcher** (Windows x64) from here:
    - [Download DeltaPatcher v3.1.6](https://github.com/marco-calautti/DeltaPatcher/releases)
