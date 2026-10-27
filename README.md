@@ -37,7 +37,7 @@ You need to tell the patcher which file to modify (`Original file`) and which mo
 
 1. **Original file:** Click the folder icon, navigate to your **NEW** `Far Far Away Practice` folder, and select the file named **`data.win`**.
    - *Note: Do not select the `.exe` file. You must select `data.win`.*
-2. **XDelta patch:** Click the folder icon and select the `FFAFH_Practice_v1.1.0.xdelta` file you downloaded from this repository.
+2. **XDelta patch:** Click the folder icon and select the `FFAFH_Practice_v1.X.X.xdelta` file you downloaded from this repository.
 
 <img width="263" height="248" alt="uyasgyd" src="https://github.com/user-attachments/assets/a131ed0c-f934-4ecf-bcb4-10fe8826c33c" />
 
